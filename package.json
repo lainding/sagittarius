@@ -1,0 +1,22 @@
+{
+  "name": "sagittarius",
+  "version": "1.0.0",
+  "description": "myself notification assistent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lainding/sagittarius.git"
+  },
+  "keywords": [
+    "notification"
+  ],
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lainding/sagittarius/issues"
+  },
+  "homepage": "https://github.com/lainding/sagittarius#readme"
+}
